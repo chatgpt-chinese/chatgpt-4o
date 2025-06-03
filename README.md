@@ -1,11 +1,14 @@
 # ChatGPT中文版：国内访问指南（支持GPT-4，无限使用GPT-4o和o1）
 
-> 更新：2025/05/21   
+> 更新：2025/06/05   
 > 作者：chatgpt-chinese   
 
 **全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和多功能应用！ 无限使用ChatGPT-4o和o1 ！！！** 
 
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
+
+**ChatGPT 中文版入口：[https://xsimplechat.com](https://xsimplechat.com)**   
+**ChatGPT 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ## 什么是 ChatGPT 中文版？
 [**ChatGPT中文版**](https://chat.lanjing.pro) 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。
@@ -17,6 +20,7 @@
 - **功能全面**：ChatGPT中文版功能更全面，支持AI绘画、AI知识库、AI思维导图、AI文件、AI PPT等等实用功能，更适合国内用户使用~
 
 ## ChatGPT 官网与中文版的区别
+
 | 对比项 | ChatGPT官网 | ChatGPT中文版（镜像网站）|
 |-------- |-------- |-------- |
 | **访问方式**	| 需要翻墙 | 无需翻墙，国内就能用 |
